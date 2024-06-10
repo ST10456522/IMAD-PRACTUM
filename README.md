@@ -36,7 +36,7 @@ links
 github link 
 https://github.com/ST10456522/IMAD-PRACTUM
 powerpoint link
-https://advtechonline-my.sharepoint.com/:p:/r/personal/st10456522_rcconnect_edu_za/_layouts/15/doc2.aspx?sourcedoc=%7BAF6A711A-6347-445A-A013-399332FBBC56%7D&file=Presentation.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1718019633943&wdOrigin=OFFICECOM-WEB.START.REC&cid=5b5ace0a-659d-46df-9eb7-b5f14381a9a1&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=b500eecf-60da-4b38-88e3-d85c66d2d8bf
+https://advtechonline-my.sharepoint.com/:p:/r/personal/st10456522_rcconnect_edu_za/_layouts/15/Doc.aspx?sourcedoc=%7BAF6A711A-6347-445A-A013-399332FBBC56%7D&file=Presentation.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&login_hint=ST10456522%40rcconnect.edu.za&ct=1718028515154&wdOrigin=OFFICECOM-WEB.START.REC&cid=dbe1d3c1-25fe-4aaa-b8ad-371b2a5a8021&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=b500eecf-60da-4b38-88e3-d85c66d2d8bf
 
 screenshots
 
